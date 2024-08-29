@@ -1,4 +1,3 @@
-import { response } from "express";
 import User from "../model/userModel.js";
 
 export const create = async (req, res) => {
